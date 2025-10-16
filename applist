@@ -1,0 +1,19 @@
+{
+  "software": [
+    {
+      "name": "PixPin",
+      "description": "Screenshot Tool",
+      "url": "https://download.pixpin.cn/PixPin_2.0.0.3.exe"
+    },
+    {
+      "name": "PotPlayer",
+      "description": "Video Player",
+      "url": "https://t1.daumcdn.net/potplayer/PotPlayerSetup64.exe"
+    },
+    {
+      "name": "HoneyViewer",
+      "description": "Image Viewer",
+      "url": "https://get.bandisoft.com/honeyview/Honeyview-x64.exe"
+    }
+  ]
+}
