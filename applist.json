@@ -2,18 +2,43 @@
   "software": [
     {
       "name": "PixPin",
-      "description": "Screenshot Tool",
+      "description": "Screenshot Tool (with image annotation & screen recording)",
       "url": "https://download.pixpin.cn/PixPin_2.0.0.3.exe"
     },
     {
       "name": "PotPlayer",
-      "description": "Video Player",
+      "description": "Video Player (supports all formats & subtitle customization)",
       "url": "https://t1.daumcdn.net/potplayer/PotPlayerSetup64.exe"
     },
     {
       "name": "HoneyViewer",
-      "description": "Image Viewer",
+      "description": "Image Viewer (fast loading for batch pictures & GIF support)",
       "url": "https://get.bandisoft.com/honeyview/Honeyview-x64.exe"
+    },
+    {
+      "name": "LibreOffice",
+      "description": "Office Suite (free alternative to Word/Excel/PPT, cross-platform)",
+      "url": "https://download.documentfoundation.org/libreoffice/stable/7.6.4/win/x86_64/LibreOffice_7.6.4_Win_x86-64.msi"
+    },
+    {
+      "name": "7-Zip",
+      "description": "File Compression Tool (high compression ratio, supports ZIP/RAR/7z)",
+      "url": "https://www.7-zip.org/a/7z2301-x64.msi"
+    },
+    {
+      "name": "Google Chrome",
+      "description": "Web Browser (fast, secure & supports extensions)",
+      "url": "https://dl.google.com/tag/s/dl/chrome/install/googlechromestandaloneenterprise64.msi"
+    },
+    {
+      "name": "Visual Studio Code",
+      "description": "Code Editor (lightweight, supports multiple programming languages)",
+      "url": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user"
+    },
+    {
+      "name": "Malwarebytes Free",
+      "description": "Antivirus Tool (detects & removes malware/adware)",
+      "url": "https://data-cdn.mbamupdates.com/web/mb4/win/mbsetup.exe"
     }
   ]
 }
